@@ -1,0 +1,20 @@
+typography_spectrum: 0.44300185912288725
+color:
+  brandStrength: 0.2590862247161567
+  lightness: 0.3158729989081621
+  saturation: 0.24690731475129724
+  rhythmicContrast: 0.7383578745648265
+  brandColors:
+    - '#00585F'
+    - '#009393'
+    - '#FFFCC4'
+    - '#F0EDBB'
+    - '#FF3800'
+github: true
+layout_spectrum: 0.33561920723877847
+author:
+  name: Kevin O'Neill
+  email: kevin@oneill.id.au
+name: kevin
+url: 'http://kevin.oneill.id.au'
+content: []
